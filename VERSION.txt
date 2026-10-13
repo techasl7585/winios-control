@@ -1,0 +1,5 @@
+CommunicatePars Windows iOS HID Mouse
+Version: 0.3.0
+Target: Windows 10 x64 / Intel USB 8087:0A2A
+BTstack commit: 7fa68bd9ea40aa86672e6a47bef0ab9afc27506d
+
